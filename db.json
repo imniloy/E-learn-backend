@@ -216,6 +216,34 @@
         }
       ],
       "id": 4
+    },
+    {
+      "question": "How to focus?",
+      "video_id": 4,
+      "video_title": "USE YOUR TIME TO CRUSH YOUR GOALS",
+      "options": [
+        {
+          "id": 1,
+          "option": "Avoid social media while working",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Just sleap",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Just chatting with gf",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Just listen song",
+          "isCorrect": false
+        }
+      ],
+      "id": 5
     }
   ],
   "assignmentMark": [
@@ -292,6 +320,30 @@
       "totalMark": 5,
       "mark": 5,
       "id": 3
+    },
+    {
+      "student_id": 6,
+      "student_name": "kobita",
+      "video_id": 3,
+      "video_title": "ChatGPT Tutorial - for all College students & Coders",
+      "totalQuiz": 1,
+      "totalCorrect": 0,
+      "totalWrong": 1,
+      "totalMark": 5,
+      "mark": 0,
+      "id": 4
+    },
+    {
+      "student_id": 6,
+      "student_name": "kobita",
+      "video_id": 4,
+      "video_title": "USE YOUR TIME TO CRUSH YOUR GOALS",
+      "totalQuiz": 1,
+      "totalCorrect": 1,
+      "totalWrong": 0,
+      "totalMark": 5,
+      "mark": 5,
+      "id": 5
     }
   ]
 }
